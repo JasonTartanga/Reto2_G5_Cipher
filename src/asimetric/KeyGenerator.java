@@ -1,6 +1,7 @@
 package asimetric;
 
 /**
+ * Clase que genera las claves publicas y privadas para el cifrado asimetrico
  *
  * @author Jason.
  */
